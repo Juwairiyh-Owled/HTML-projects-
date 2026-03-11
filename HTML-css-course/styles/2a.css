@@ -1,0 +1,76 @@
+.request-button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 110px;
+    border: none;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: 1.15s;
+
+
+  }
+.request-button:hover{
+opacity: 0.8;
+
+
+}
+
+
+
+.cart-button{
+background-color: rgb(247, 213, 40);
+border: none;
+height: 30px;
+width: 150px;
+border-radius: 13px;
+cursor: pointer;
+}
+.cart-button:hover{
+background-color: rgb(233, 172, 18);
+
+}
+
+
+
+.Sign-button{
+background-color: rgba(24, 167, 64, 0.877);
+border:none;
+color: white;
+font-weight: bold;
+height: 30px;
+width: 80px;
+border-radius: 8px;
+margin-left: 8px;
+font-size: 11px;
+cursor: pointer;
+
+}
+
+.Sign-button:hover{
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+
+
+
+.save-button{
+background-color: white;
+border-color: rgba(13, 115, 204, 0.826);
+color: rgba(13, 115, 204, 0.826);
+border-radius: 20px;
+border-style: solid;
+height: 30px;
+width: 65px;
+border-width: 1.5px;
+font-weight: bold;
+margin-left: 8px;
+cursor: pointer;
+}
+
+.save-button:hover{
+background-color:rgb(226, 240, 254);
+border-width: 2px;
+}
+

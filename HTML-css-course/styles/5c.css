@@ -1,0 +1,43 @@
+p{
+font-family: Verdana;
+
+}
+
+
+.title{
+font-size:25px ;
+font-weight: bold;
+margin-bottom: 0;
+}
+
+.Beginner{
+font-size: 15px;
+margin-top: 6px;
+color: rgb(96, 96, 96);
+margin-bottom: 20px;
+
+}
+
+.text{
+font-size: 15px;
+width: 280px;
+margin-top: 0;
+margin-bottom:0 ;
+}
+
+.button{
+background-color: green;
+color: white;
+border: none;
+border-radius: 8px;
+padding-top: 8px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+font-size: 15px;
+margin-top: 20px;
+font-family: verdana;
+cursor: pointer;
+
+
+}

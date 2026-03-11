@@ -1,0 +1,33 @@
+  p{
+font-family: Arial;
+margin-top: 0;
+margin-bottom: 0;
+text-align: center;
+  }
+
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  
+
+}
+
+.subtitle{
+font-size: 15px;
+margin-top: 20px;
+
+}
+
+.link{
+margin-top: 20px;
+color: rgb(8, 128, 203);
+cursor: pointer;
+}
+
+.link:hover{
+text-decoration: underline;
+
+
+
+
+}

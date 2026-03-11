@@ -1,0 +1,30 @@
+p{
+font-family: Arial;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.title{
+font-size: 30px;
+}
+
+.usd{
+font-size: 18px;
+color: rgb(96, 96, 96);
+margin-left: 1px;
+}
+
+.subtitle{
+color: green;
+margin-top: 10px;
+
+}
+
+.text{
+margin-top: 10px;
+color: rgb(99, 97, 97);
+}
+
+.red{
+color: red;
+}

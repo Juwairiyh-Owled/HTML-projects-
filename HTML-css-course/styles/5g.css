@@ -1,0 +1,30 @@
+p{
+font-family: Arial;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.username{
+font-size: 18px;
+font-weight: bold;
+}
+
+.email{
+color: rgb(96, 96, 96);
+font-weight: normal;
+}
+
+.line1{
+margin-top: 5px;
+width: 500px;
+}
+
+.line2{
+margin-top: 15px;
+}
+
+.link{
+color: rgb(96, 172, 231);
+cursor: pointer;
+
+}

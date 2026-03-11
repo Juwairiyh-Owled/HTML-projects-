@@ -1,0 +1,15 @@
+.header{
+  height: 55px;
+display:flex;
+flex-direction:row;
+justify-content: space-between;
+}
+
+
+.starbucks-logo{
+  width: 60px;
+  margin-left: 40px;
+  margin-top: 12px;}
+.menu-button{
+  
+}

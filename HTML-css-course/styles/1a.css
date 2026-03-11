@@ -1,0 +1,46 @@
+.amazon-link{
+color: rgb(0, 118, 133);
+
+}
+
+.title{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.price{
+color: rgb(0, 118, 0);
+
+}
+
+
+
+
+
+
+
+  .add-button{
+background-color: rgb(255, 216, 20);
+height: 32px;
+width: 120px;
+border: none;
+border-radius: 20px;
+font-weight: bold;
+font-style: normal;
+font-size: 13px;
+
+}
+
+
+
+.now-button{
+background-color: orange;
+border: none;
+height: 32px;
+width: 120px;
+border-radius: 20px;
+font-weight: bold;
+font-size: 13px;
+
+}

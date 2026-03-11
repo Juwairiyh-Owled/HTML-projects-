@@ -1,0 +1,10 @@
+.text {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+button {
+  display: inline-block;
+  vertical-align: middle;
+}
